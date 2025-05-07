@@ -1,3 +1,17 @@
+
+# Los nuestros
+
+data/raw/calendar.csv
+data/raw/sales.csv
+data/raw/sell_prices.csv
+data/raw/sample_submission.csv
+data/raw/total_data.csv
+data/data_base/DB_Walmart
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
